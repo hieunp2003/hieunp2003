@@ -5,7 +5,7 @@
 📍 Based in Hanoi, Vietnam
 
 # 🔥 Featured Projects:
-## 🌱 Automated Orchid Shoot Separation (Graduation Thesis, 2025)
+## 🌱 Automated Orchid Shoot Separation (Graduation Project, 2025)
 Tech Stack: YOLOv8, OpenCV, Google Colab
 
 **Description:**
