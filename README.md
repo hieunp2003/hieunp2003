@@ -28,7 +28,6 @@ Tech Stack: YOLOv8, OpenCV, Google Colab
 ## 📫 Let's Connect
 
 - 📧 Email: baqux0123@gmail.com  
-- 📱 Phone: +84 868 823 074  
 
 <!--
 **hieunp2003/hieunp2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
